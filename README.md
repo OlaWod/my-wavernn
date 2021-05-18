@@ -30,3 +30,5 @@ https://arxiv.org/abs/1802.08435v1
 https://github.com/fatchord/WaveRNN
 
 https://pytorch.org/audio/master/_modules/torchaudio/models/wavernn.html
+
+https://medium.com/papercup-ai/subscale-wavernn-f91fc9c7a106
